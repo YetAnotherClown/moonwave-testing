@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[204],{63891:e=>{e.exports=JSON.parse('{"sourceUrl":"https://github.com/YetAnotherClown/moonwave-testing/blob/master","baseUrl":"/moonwave-testing/","classOrder":[],"apiCategories":[]}')}}]);
